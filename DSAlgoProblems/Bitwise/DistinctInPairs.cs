@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 
-namespace DSAlgoProblems
+namespace DSAlgoProblems.Bitwise
 {
     class DistinctInPairs
     {

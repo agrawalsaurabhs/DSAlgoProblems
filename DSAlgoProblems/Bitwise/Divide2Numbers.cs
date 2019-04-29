@@ -1,7 +1,6 @@
 ﻿using System;
-using System.Collections.Generic;
 
-namespace ConsoleApp3
+namespace DSAlgoProblems.Bitwise
 {
     class Divide2Numbers
     {

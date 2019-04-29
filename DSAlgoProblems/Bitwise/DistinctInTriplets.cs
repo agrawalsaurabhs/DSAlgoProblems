@@ -1,11 +1,11 @@
 ﻿using System;
 using System.Collections.Generic;
 
-namespace DSAlgoProblems
+namespace DSAlgoProblems.Bitwise
 {
     class DistinctInTriplets
     {
-        static void Main(string[] args)
+        static void Main3(string[] args)
         {
             var number = singleNumber(new List<int> { 1, 2, 2, 2, 14,14,14,7, 1 ,1,9,9,9});
             Console.WriteLine(number);
